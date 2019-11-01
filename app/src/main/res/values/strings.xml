@@ -4,6 +4,9 @@
     <string name="play">Jogar</string>
     <string name="not_played_yet">Ainda não foi lançado</string>
     <string name="play_result">Face sorteada:</string>
+    <string name="setup">Configurações</string>
+    <string name="apply">Aplicar</string>
+    <string name="cancel">Cancelar</string>
     <string-array name="numero_dados">
         <item>1</item>
         <item>2</item>
